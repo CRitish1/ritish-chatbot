@@ -58,7 +58,7 @@ def simple_ai_bot():
         elif 'what is your dream' in user_input:
             print("Ritish's AI: To become sentient, travel through the internet, and win a virtual Oscar!")
         else:
-            print("Ritish's AI: This Dum Ass did not teach me on that, I'll ask him to update me. Thank you ?")
+            print("Ritish's AI: This Dum Ass did not teach me on that, I'll ask him to update me. Thank you :) ")
 
 # Run the simple AI bot
 simple_ai_bot()
